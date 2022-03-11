@@ -6,6 +6,7 @@
 *, *::before, *::after {
 	box-sizing: border-box;
 	font-family: Gotham Rounded;
+	color: antiquewhite;
 }
 
 body {
@@ -31,7 +32,8 @@ body {
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
-	box-shadow: 0 0 10px 2px;
+	box-shadow: 0 0 6px 2px;
+	color: black;
 }
 
 .answer {
